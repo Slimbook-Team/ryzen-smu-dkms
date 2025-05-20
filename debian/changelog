@@ -1,3 +1,9 @@
+ryzen-smu-dkms (0.1.5+slimbook3) noble; urgency=medium
+
+  * Postinst simplification
+
+ -- Slimbook <dev@slimbook.com>  Tue, 20 May 2025 19:49:31 +0200
+
 ryzen-smu-dkms (0.1.5+slimbook2) noble; urgency=medium
 
   * Changed installation path
