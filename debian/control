@@ -1,0 +1,14 @@
+Source: ryzen-smu-dkms
+Section: misc
+Priority: optional
+Maintainer: Slimbook <dev@slimbook.es>
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 4.6.0
+Rules-Requires-Root: no
+Homepage: https://gitlab.com/leogx9r/ryzen_smu
+
+Package: ryzen-smu-dkms
+Architecture: amd64
+Depends: dkms (>= 1.95), ${misc:Depends}
+Description: Ryzen SMU driver
+ DKMS module that allows access to AMD SMU from user space

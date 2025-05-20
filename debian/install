@@ -1,0 +1,4 @@
+*.c /usr/src/ryzen-smu-0.1.5/
+*.h /usr/src/ryzen-smu-0.1.5/
+dkms.conf /usr/src/ryzen-smu-0.1.5/
+Makefile /usr/src/ryzen-smu-0.1.5/

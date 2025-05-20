@@ -1,0 +1,12 @@
+Format: https://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: ryzen-smu
+Upstream-Contact: <dev@slimbook.es>
+Source: https://gitlab.com/leogx9r/ryzen_smu
+
+Files: debian
+Copyright: 2025 Slimbook <dev@slimbook.es>
+License: GPL-2
+
+Files: src
+Copyright: Copyright (C) 2020 Leonardo Gates <leogatesx9r@protonmail.com>
+License: GPL-2
