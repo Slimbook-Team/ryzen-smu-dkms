@@ -1,0 +1,5 @@
+ryzen-smu-dkms (0.1.5+slimbook1) noble; urgency=medium
+
+  * Initial release. 
+
+ -- Slimbook <dev@slimbook.com>  Tue, 20 May 2025 18:59:45 +0200
